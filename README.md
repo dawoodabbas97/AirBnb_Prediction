@@ -2,7 +2,7 @@
 ### DS-GA 1001 Project
 
 ### Team members, netid
-- Abbas Dawood, da2729
+- Dawood Abbas, da2729
 - Audrey Chu, ac8839
 - Faizan Kanji, fnk9850
 - Connor Reed, cr3221
