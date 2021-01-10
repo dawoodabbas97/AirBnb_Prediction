@@ -7,6 +7,15 @@
 - Faizan Kanji, fnk9850
 - Connor Reed, cr3221
 
+**Done Work**
+The path to success as a host on Airbnb is often characterized by trial and error, with the ex perience of any guest influenced by a variety of factors including the behaviours of the host, 
+the qualities of the home, and the location of the listing. Using a machine learning approach, we developed two models to predict the guest rat- ing for a given listing in New York City—one random forest 
+using features of a listing that are more immediately within the control of the host (AUC = 0.716) and one random forest us- ing features derived from a listing’s locale (AUC = 0.596). 
+We use the probability predictions of our two models to assign both a ”property score” and a ”location score” to each listing. 
+Together, these scores establish a useful framework for cur- rent and potential hosts to optimize their poten- tial for high guest ratings given the constraints of their property and specific location, 
+and hence improve their revenue earned from the platform. By offering insight to improve the experiences of both guests and hosts, this tool may also be useful for Airbnb in its efforts to reduce 
+churn across both userbases.
+
 ## Domain and business question
 **What:** 
 - Predicting prices, ratings, and/or booking frequencies of Airbnb rental listings in [some subset of] major cities using listing, geospatial, and time series data
